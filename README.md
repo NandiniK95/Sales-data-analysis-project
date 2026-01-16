@@ -1,0 +1,2 @@
+# Sales-data-analysis-project
+This project analyzes sales data to understand performance across categories, sub-categories, states, months, profit trends, and top customers.  The objective is to identify growth drivers, profitability patterns, and high-value customers to support data-driven sales and marketing decisions.
